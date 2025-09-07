@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey there, I'm Gopikasree Ramesh!  
 
-<!--
-**GopikasreeR/GopikasreeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ECE Student @ VIT Chennai** | Aspiring **VLSI & Embedded Systems Engineer** | Exploring **ML + Hardware**  
 
-Here are some ideas to get you started:
+---
+## About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Gopikasree Ramesh, a 3rd year **ECE student at VIT Chennai**, specializing in **Digital VLSI Design, Embedded Systems, and AI Hardware**. Currently, I am preparing for opportunities in the **semiconductor and AI hardware industries** where I can apply my skills to impactful, real world challenges.  
+
+- Learning and applying **Machine Learning for robust hardware implementations**  
+- Building **Embedded + AI projects**   
+- Currently working on **research in JL TFET-based biosensors**  
+
+---
+
+## Tech Stack  
+
+**Hardware & VLSI**  
+`Cadence Virtuoso` • `LTspice` • `ModelSim` • `Xilinx Vivado` • `Eagle` 
+
+**Embedded Systems**  
+`ESP32` • `Arduino` • `TinyML` • `Edge AI` • `IoT Protocols` • `ARM Cortex` 
+
+**Software Stack**  
+`Python` • `Embedded C` • `MATLAB` • `Verilog` 
+
+---
+
+⭐ *“Designing efficient circuits and intelligent systems, one project at a time.”* ⭐
